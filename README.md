@@ -1,2 +1,4 @@
 # plotting_functions
-Программа на пайтоне для построение графиков основных функций
+Python program for plotting basic functions
+
+Made with love and pizza🍕
